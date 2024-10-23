@@ -1,1 +1,4 @@
-streamlit
+streamlit==1.27.2
+streamlit_authenticator==0.2.3 #autenticar requisições
+psycopg2==2.9.9  #conexão com o banco de dados
+python-dotenv==1.0.0  #Esconder dados de conexão com o banco de dados
